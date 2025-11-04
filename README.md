@@ -1,4 +1,4 @@
-# Michael Richard Baker
+# Mike Baker
 
 **Front-End Developer & IT Support Technician**  
 HTML • CSS • JavaScript • PC Repair & Troubleshooting
@@ -12,15 +12,11 @@ Focused on building secure, accessible, and maintainable web solutions with CI/C
 ---
 
 ## 🔧 Core Skills
-- **Front-End Development:** HTML5, CSS3, JavaScript (ES6+), responsive design
+- **Front-End Development:** HTML5/CSS3/JS, SASS, responsive design
 - **CMS & E-Commerce:** Drupal site building, donations and commerce setup
 - **CI/CD & Testing:** GitHub Actions
 - **IT Support:** Hardware diagnostics, OS install/config, network troubleshooting
 - **Version Control:** Git, GitHub
-
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/promptmike/)
-
 
 
 <!--
